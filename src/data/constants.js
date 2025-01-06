@@ -9,7 +9,7 @@ export const Bio = {
     " I'm someone who loves trying new things and never shies away from a challenge. Learning is my passion, and I always aim to do my best. With a positive mindset and a belief in growth, I'm excited to contribute positively and achieve great things.",
   github: "https://github.com/sarathnakka",
   
-  resume: "https://drive.google.com/file/d/1aHORqz0RWhw8AM1tE8PNh36ckKWUxF6R/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1qzoQl_iaHZKEQdq019TLfHTBabgD8Aam/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nakka-sai-sarath-1b41092a7/",
   insta: "https://www.instagram.com/__.sarathnakka/ ",
   
