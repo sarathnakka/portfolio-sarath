@@ -248,16 +248,19 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: " ",
     school: "Usha Rama College of Engineering and Technology, Telaprolu",
     date: "Aug 2019 - May 2023",
     grade: "78.9%",
     desc: "I completed my Bachelor's degree in Computer Science and Engineering at Usha Rama College of Engineering and Technology, Telaprolu.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
+  // https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd
+  // https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3
+  // https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: " ",
     school: "Narayana Junior College, Vijayawada",
     date: "June 2017 - Apr 2019",
     grade: "96.7%",
@@ -266,7 +269,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: " ",
     school: "Kendriya Vidyalaya No:1, Vijayawada",
     date: "Apr 2016 - Apr 2017",
     grade: "94%",
