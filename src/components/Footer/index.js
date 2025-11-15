@@ -105,7 +105,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Sarath Nakka. All rights reserved.
+          &copy; 2025 Sarath Nakka. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
